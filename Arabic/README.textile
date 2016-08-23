@@ -1,0 +1,33 @@
+<div lang="ar" dir="rtl">
+h1. مقدمة
+
+يهدف هذا الدليل إلى دعم الممارسات الجيدة المتعلقة بعمليات الشراء عبر مساعدة الوكالات والشركات والمؤسسات الحكومية على تحرير ونشر وثائق شراء عالية الجودة تحثّ المزودين على تقديم ردود تتميز بدقة التسعير وبالابتكار.
+
+إنّ وثائق عملية الشراء المتّسمة بدقّة التصميم وبجودة التحرير تمثل عنصرا أساسيا لأفضل ممارسات عمليات الشراء بهدف تسليم المشاريع بنجاح.
+
+إنّ هذا الدليل يمكّنكم من ربح الوقت ومن تحسين نتائج عملية الشراء عبر مساعدتكم على اتّباع أفضل الممارسات التي يتضمّنها.
+
+قامت شركة Angry Cactus بإنشاء هذا الدليل. يقع مقرّها في تونس العاصمة، تضم فريق من الطراز العالمي متكون من مستشارين متعدد اللغات مختصين في تكنولوجيا المعلومات.
+
+h1. كيفيّة استعمال هذه الوثيقة
+
+يمكنكم اللجوء إلى هذه الوثيقة لدى تحرير وثائق الشراء الخاصة بكم بغية توفير الوقت وتحسين نتائج عملية الشراء وذلك بانتهاج أفضل الممارسات التي تتضمنها الوثيقة.
+
+وتشكّل هذه الوثيقة جزءا من دليل عملية طلب العروض (RFX Procurement Guide) الذي أنشأته شركة « Angry Cactus » والذي يتضمّن ثلاثة أجزاء: المقدمة وسلسلة من النماذج وسلسلة من الأمثلة.
+
+الدليل متاح بالكامل في صيغة مفتوحة المصدر (Open Source). ويمكنكم تقديم اقتراحاتكم سواء للتحسين أو للإضافة في مستودعنا العمومي Github على الرابط التالي :
+"https://github.com/angrycactus/procurement":https://github.com/angrycactus/procurement
+
+h1. الروابط نحو الوثائق
+
+h2. النماذج
+
+* "RFX Guide - Arabic - Digital - Templates - RFI":https://docs.google.com/document/d/1d7X2HitTbWkHhqOH47d1XOPOh72IgNq5XpulZs6jPO8/edit?usp=sharing
+* "RFX Guide - Arabic - Digital - Templates - RFP":https://docs.google.com/document/d/17DOB_ViOncW6rcipm4n_R3q_KWFdXWpty54341Htlag/edit?usp=sharing
+* "RFX Guide - Arabic - Digital - Templates - RFQ":https://docs.google.com/document/d/1z-AYtWFhnLzn4kvw1Yxf2NW6e0royziGQEkKpWAKFWs/edit?usp=sharing
+
+h2. الأمثلة
+
+* "RFX Guide - Arabic - Open Data Portal - Digital - Examples - RFI":https://docs.google.com/document/d/1LYcckK5sVE-6Fd8PLQMTQhAcZpgLG1wnDc34D7W0Qbg/edit?usp=sharing
+* "RFX Guide - Arabic - Open Data Portal - Digital - Examples - RFP":https://docs.google.com/document/d/1nAL2lqqlj9HN6j5YeHEQ4H1x1VJfUF30CEMR9wwO8cM/edit?usp=sharing
+* "RFX Guide - Arabic - Open Data Portal - Digital - Examples - RFQ":https://docs.google.com/document/d/1ozjX1pyAO3K4S5uVHMfZHw35XT1u5b-hCvhgCAQM4zk/edit?usp=sharing
