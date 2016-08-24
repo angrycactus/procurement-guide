@@ -15,7 +15,7 @@ When developing your own procurement documents, you can use this document to sav
 This document is part of the Angry Cactus RFX Procurement Guide which is composed of three parts - an RFX Introduction and a series of RFX Templates and RFX Examples. 
 
 The entire Guide is open source. Suggestions for improvements or additions are welcome in our public Github repository at 
-https://github.com/angrycactus/procurement
+https://github.com/angrycactus/procurement-guide
 
 # Links to the Documents
 

@@ -16,7 +16,7 @@ h1. كيفيّة استعمال هذه الوثيقة
 وتشكّل هذه الوثيقة جزءا من دليل عملية طلب العروض (RFX Procurement Guide) الذي أنشأته شركة « Angry Cactus » والذي يتضمّن ثلاثة أجزاء: المقدمة وسلسلة من النماذج وسلسلة من الأمثلة.
 
 الدليل متاح بالكامل في صيغة مفتوحة المصدر (Open Source). ويمكنكم تقديم اقتراحاتكم سواء للتحسين أو للإضافة في مستودعنا العمومي Github على الرابط التالي :
-"https://github.com/angrycactus/procurement":https://github.com/angrycactus/procurement
+"https://github.com/angrycactus/procurement-guide":https://github.com/angrycactus/procurement-guide
 
 h1. الروابط نحو الوثائق
 

@@ -15,7 +15,7 @@ Lors de l’élaboration de vos propres documents d’approvisionnement, vous po
 Ce livret fait partie du guide relatif au processus de l’appel d’offres (RFX  Procurement Guide) élaboré par Angry Cactus ; lequel guide est composé de trois parties, à savoir : l’introduction, une série de modèles et une série d’exemples.
 
  L’ensemble du guide est disponible en source ouverte (open source). Les propositions d’amélioration ou de rajout sont les bienvenues à notre référéntiel public GitHub sur le lien suivant :
-https://github.com/angrycactus/procurement
+https://github.com/angrycactus/procurement-guide
 
 # Liens Vers Les Documents
 
