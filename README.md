@@ -13,7 +13,7 @@ The guide, RFX templates and Open Data Portal examples are available in the foll
 
 * [Arabic](/arabic/README.textile)
 * [English](/english/README.md)
-* [French] (/french/README.md)
+* [French](/french/README.md)
 
 ### What is RFX
 
